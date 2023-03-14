@@ -1,0 +1,2 @@
+This is the new file named as file4.txt
+END
